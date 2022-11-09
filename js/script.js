@@ -2,7 +2,7 @@ function init(){
     //add your javascript between these two lines of code
     function alertMe(){
       input = document.getElementById('entryinput')
-      alert('Edison Chiu: ' + input.value)
+      alert('Jason Hua: ' + input.value)
       document.getElementById('textoutput').innerHTML = input.value;
     }
   
